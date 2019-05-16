@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hwp.card</groupId>
   <artifactId>CardSDK</artifactId>
-  <version>0.0.1-SNAPSHORT</version>
+  <version>0.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
